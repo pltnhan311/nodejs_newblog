@@ -1,0 +1,31 @@
+{
+  "name": "new_blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pltnhan311/nodejs_newblog.git"
+  },
+  "keywords": [
+    "new_blog",
+    "f8",
+    "nodejs"
+  ],
+  "author": "john",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pltnhan311/nodejs_newblog/issues"
+  },
+  "homepage": "https://github.com/pltnhan311/nodejs_newblog#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
